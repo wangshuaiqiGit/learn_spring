@@ -1,6 +1,6 @@
 package com.study.model.exception;
 
-import com.chen.model.web.response.ResultCode;
+import com.study.model.web.response.ResultCode;
 
 /**
  * @author chenhaotao
